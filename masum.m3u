@@ -1,4 +1,4 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-logo=”https://en.m.wikipedia.org/wiki/GTV_(Bangladeshi_TV_channel)#/media/File%3AGTVBangladeshLogo.png” group-title=”Bangla”, GTV
-http://172.21.22.3:8082/Gazi-TVv/tracks-v1a1/mono.m3u8
+http://172.21.22.3:8082/Gazi-TVv/tracks-v1a1/mono.m3u8?token=92cf46f46edb2383c080726072cbb6e9dd20b5b2-1c9c137deebb0a9b40e21d09e626522c-1698673506-1698662706
